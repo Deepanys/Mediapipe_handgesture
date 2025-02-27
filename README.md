@@ -92,7 +92,7 @@ Expected output:
 Python 3.11.2 or Python 3.x.x
 ```
 
-If Python is not installed, download and install it from [Python Official Website](https://www.python.org/downloads/). Ensure you check the option to add Python to PATH during installation.
+If Python is not installed, download and install it from "Windows Store" or [Python Official Website](https://www.python.org/downloads/). Ensure you check the option to add Python to PATH during installation.
 
 #### Step 1: Install Git
 Download and install Git from [Git for Windows](https://git-scm.com/download/win).
